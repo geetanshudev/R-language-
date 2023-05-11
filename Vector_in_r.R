@@ -38,7 +38,7 @@ my_vec_len
 my_vecte <- c(1,2,3,4,5,6,7,8,9)
 my_subset<-my_vecte[1:3] #to print first three elements from vector
 my_subset
-my_subset2<-my_vect[my_vect%%2==0] #subset of those element whose mod 2 is 0
+my_subset2<-my_vecte[my_vecte%%2==0] #subset of those element whose mod 2 is 0
 my_subset2
 
 #6element extraction 
